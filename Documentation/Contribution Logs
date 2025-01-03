@@ -1,0 +1,40 @@
+# Fine-Tuning GPT for MATLAB Electrical Simulations
+
+## Problem Statement
+
+When using GPT to generate MATLAB code for designing electrical simulations, we encountered significant issues:
+
+1. The libraries included in the code do not exist in MATLAB.
+2. The component names suggested by GPT were incorrect or non-existent.
+
+Even after prompting GPT for more specific component names, it generated another erroneous code that did not work. In summary, GPT lacks an understanding of MATLAB components, its libraries, and functions.
+
+## Solution
+
+To address this issue, our primary goal is to fine-tune the Large Language Model (LLM) to generate accurate and functional MATLAB code for electrical systems.
+
+## Steps
+
+### 1. Build a Classification Model for Component Selection
+We will create a model that can correctly classify and suggest appropriate components for electrical simulations.
+
+### 2. Focus Areas
+Initially, our efforts will be concentrated on the **Simscape** and **Simulink** libraries in MATLAB, as they are critical for electrical system simulations.
+
+## Goals
+
+- Enable GPT to generate MATLAB code with valid libraries and component names.
+- Focus on improving the accuracy of electrical simulations within Simscape and Simulink environments.
+
+
+## Date Jan 2, 2024 
+  Contributors - @Aditya, @Swapnil
+
+### Work Done- 
+
+1. Dataset Ready to rock !
+  Scrapped component data, 
+  Categorised it 
+  Converted Xlsxs 
+  Combined 
+
