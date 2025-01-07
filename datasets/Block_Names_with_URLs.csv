@@ -1,0 +1,269 @@
+Category,Subcategory,Block Name,Description,Block URL
+Electrical Models,Electrical Elements,Capacitor,Linear capacitor in electrical systems,https://www.mathworks.com/help/simscape/ref/capacitor.html
+Electrical Models,Electrical Elements,Diode,Piecewise linear diode in electrical systems,https://www.mathworks.com/help/simscape/ref/diode.html
+Electrical Models,Electrical Elements,Electrical Reference,Connection to electrical ground,https://www.mathworks.com/help/simscape/ref/electricalreference.html
+Electrical Models,Electrical Elements,Floating Reference,Reference for measuring voltage of other nodes in floating electrical network (Since R2023b),https://www.mathworks.com/help/simscape/ref/floatingreference.html
+Electrical Models,Electrical Elements,Gyrator,Ideal gyrator in electrical systems,https://www.mathworks.com/help/simscape/ref/gyrator.html
+Electrical Models,Electrical Elements,Ideal Transformer,Ideal transformer in electrical systems,https://www.mathworks.com/help/simscape/ref/idealtransformer.html
+Electrical Models,Electrical Elements,Inductor,Linear inductor in electrical systems,https://www.mathworks.com/help/simscape/ref/inductor.html
+Electrical Models,Electrical Elements,Infinite Resistance,Electrical element for setting initial voltage difference between two nodes,https://www.mathworks.com/help/simscape/ref/infiniteresistance.html
+Electrical Models,Electrical Elements,Memristor,Ideal memristor with nonlinear dopant drift approach,https://www.mathworks.com/help/simscape/ref/memristor.html
+Electrical Models,Electrical Elements,Mutual Inductor,Mutual inductor in electrical systems,https://www.mathworks.com/help/simscape/ref/mutualinductor.html
+Electrical Models,Electrical Elements,Op-Amp,Ideal operational amplifier,https://www.mathworks.com/help/simscape/ref/op-amp.html
+Electrical Models,Electrical Elements,Open Circuit,Electrical port terminator that draws no current,https://www.mathworks.com/help/simscape/ref/opencircuit.html
+Electrical Models,Electrical Elements,Resistor,Linear resistor in electrical systems,https://www.mathworks.com/help/simscape/ref/resistor.html
+Electrical Models,Electrical Elements,Rotational Electromechanical Converter,Interface between electrical and mechanical rotational domains,https://www.mathworks.com/help/simscape/ref/rotationalelectromechanicalconverter.html
+Electrical Models,Electrical Elements,Switch,Switch controlled by external physical signal,https://www.mathworks.com/help/simscape/ref/switch.html
+Electrical Models,Electrical Elements,Thermal Resistor,Resistor with thermal port,https://www.mathworks.com/help/simscape/ref/thermalresistor.html
+Electrical Models,Electrical Elements,Translational Electromechanical Converter,Interface between electrical and mechanical translational domains,https://www.mathworks.com/help/simscape/ref/translationalelectromechanicalconverter.html
+Electrical Models,Electrical Elements,Variable Resistor,Linear variable resistor in electrical systems,https://www.mathworks.com/help/simscape/ref/variableresistor.html
+Electrical Models,Electrical Sensors,Current Sensor,Current sensor in electrical systems,https://www.mathworks.com/help/simscape/ref/currentsensor.html
+Electrical Models,Electrical Sensors,Voltage Sensor,Voltage sensor in electrical systems,https://www.mathworks.com/help/simscape/ref/voltagesensor.html
+Electrical Models,Electrical Sources,AC Current Source,Ideal sinusoidal current source,https://www.mathworks.com/help/simscape/ref/accurrentsource.html
+Electrical Models,Electrical Sources,AC Voltage Source,Ideal constant voltage source,https://www.mathworks.com/help/simscape/ref/acvoltagesource.html
+Electrical Models,Electrical Sources,Controlled Current Source,Ideal current source driven by input signal,https://www.mathworks.com/help/simscape/ref/controlledcurrentsource.html
+Electrical Models,Electrical Sources,Controlled Voltage Source,Ideal voltage source driven by input signal,https://www.mathworks.com/help/simscape/ref/controlledvoltagesource.html
+Electrical Models,Electrical Sources,Current-Controlled Current Source,Linear current-controlled current source,https://www.mathworks.com/help/simscape/ref/current-controlledcurrentsource.html
+Electrical Models,Electrical Sources,Current-Controlled Voltage Source,Linear current-controlled voltage source,https://www.mathworks.com/help/simscape/ref/current-controlledvoltagesource.html
+Electrical Models,Electrical Sources,DC Current Source,Ideal constant current source,https://www.mathworks.com/help/simscape/ref/dccurrentsource.html
+Electrical Models,Electrical Sources,DC Voltage Source,Ideal constant voltage source,https://www.mathworks.com/help/simscape/ref/dcvoltagesource.html
+Electrical Models,Electrical Sources,Voltage-Controlled Current Source,Linear voltage-controlled current source,https://www.mathworks.com/help/simscape/ref/voltage-controlledcurrentsource.html
+Electrical Models,Electrical Sources,Voltage-Controlled Voltage Source,Linear voltage-controlled voltage source,https://www.mathworks.com/help/simscape/ref/voltage-controlledvoltagesource.html
+Electromagnetic Models,Magnetic Elements,Electromagnetic Converter,Lossless electromagnetic energy conversion device,https://www.mathworks.com/help/simscape/ref/electromagneticconverter.html
+Electromagnetic Models,Magnetic Elements,Fundamental Reluctance,Simplified implementation of magnetic reluctance,https://www.mathworks.com/help/simscape/ref/fundamentalreluctance.html
+Electromagnetic Models,Magnetic Elements,Magnetic Reference,Reference connection for magnetic ports,https://www.mathworks.com/help/simscape/ref/magneticreference.html
+Electromagnetic Models,Magnetic Elements,Permanent Magnet,Permanent magnet that passively generates magnetic field (Since R2023b),https://www.mathworks.com/help/simscape/ref/permanentmagnet.html
+Electromagnetic Models,Magnetic Elements,Reluctance,Magnetic reluctance,https://www.mathworks.com/help/simscape/ref/reluctance.html
+Electromagnetic Models,Magnetic Elements,Reluctance Force Actuator,Magnetomotive device based on reluctance force,https://www.mathworks.com/help/simscape/ref/reluctanceforceactuator.html
+Electromagnetic Models,Magnetic Elements,Variable Reluctance,Variable reluctance in electromagnetic systems,https://www.mathworks.com/help/simscape/ref/variablereluctance.html
+Electromagnetic Models,Magnetic Sensors,Flux Sensor,Ideal flux sensor,https://www.mathworks.com/help/simscape/ref/fluxsensor.html
+Electromagnetic Models,Magnetic Sensors,MMF Sensor,Ideal magnetomotive force sensor,https://www.mathworks.com/help/simscape/ref/mmfsensor.html
+Electromagnetic Models,Magnetic Sources,Controlled Flux Source,Ideal flux source driven by input signal,https://www.mathworks.com/help/simscape/ref/controlledfluxsource.html
+Electromagnetic Models,Magnetic Sources,Controlled MMF Source,Ideal magnetomotive force source driven by input signal,https://www.mathworks.com/help/simscape/ref/controlledmmfsource.html
+Electromagnetic Models,Magnetic Sources,Flux Source,Ideal flux source,https://www.mathworks.com/help/simscape/ref/fluxsource.html
+Electromagnetic Models,Magnetic Sources,MMF Source,Ideal magnetomotive force source,https://www.mathworks.com/help/simscape/ref/mmfsource.html
+Gas Models,Elements,Absolute Reference (G),(Not recommended) Reference point at zero absolute temperature and pressure,https://www.mathworks.com/help/simscape/ref/absolutereference(g).html
+Gas Models,Elements,Cap (G),Gas port terminator with zero flow,https://www.mathworks.com/help/simscape/ref/cap(g).html
+Gas Models,Elements,Constant Volume Chamber (G),Chamber with fixed volume of gas and variable number of ports,https://www.mathworks.com/help/simscape/ref/constantvolumechamber(g).html
+Gas Models,Elements,Controlled Reservoir (G),Boundary conditions for gas network at time-varying pressure and temperature,https://www.mathworks.com/help/simscape/ref/controlledreservoir(g).html
+Gas Models,Elements,Flow Resistance (G),General resistance in a gas branch,https://www.mathworks.com/help/simscape/ref/flowresistance(g).html
+Gas Models,Elements,Infinite Flow Resistance (G),Perfectly insulated break in gas network,https://www.mathworks.com/help/simscape/ref/infiniteflowresistance(g).html
+Gas Models,Elements,Local Restriction (G),Restriction in flow area in gas network,https://www.mathworks.com/help/simscape/ref/localrestriction(g).html
+Gas Models,Elements,Pipe (G),Rigid conduit for gas flow,https://www.mathworks.com/help/simscape/ref/pipe(g).html
+Gas Models,Elements,Reservoir (G),Boundary conditions for gas network at constant pressure and temperature,https://www.mathworks.com/help/simscape/ref/reservoir(g).html
+Gas Models,Elements,Rotational Mechanical Converter (G),Interface between gas and mechanical rotational networks,https://www.mathworks.com/help/simscape/ref/rotationalmechanicalconverter(g).html
+Gas Models,Elements,Translational Mechanical Converter (G),Interface between gas and mechanical translational networks,https://www.mathworks.com/help/simscape/ref/translationalmechanicalconverter(g).html
+Gas Models,Sensors,Flow Rate Sensor (G),"Measure mass, energy, and volumetric flow rates in gas networks (Since R2023a)",https://www.mathworks.com/help/simscape/ref/flowratesensor(g).html
+Gas Models,Sensors,Mach Number Sensor (G),Measure Mach number of internal gas flow (Since R2023b),https://www.mathworks.com/help/simscape/ref/machnumbersensor(g).html
+Gas Models,Sensors,Pressure & Temperature Sensor (G),Measure pressure and temperature in gas networks,https://www.mathworks.com/help/simscape/ref/pressure&temperaturesensor(g).html
+Gas Models,Sensors,Thermodynamic Properties Sensor (G),"Measure specific enthalpy, density, specific heat at constant pressure, and specific entropy",https://www.mathworks.com/help/simscape/ref/thermodynamicpropertiessensor(g).html
+Gas Models,Sources,Flow Rate Source (G),Generate constant or time-varying mass flow rate or volumetric flow rate in gas network (Since R2023b),https://www.mathworks.com/help/simscape/ref/flowratesource(g).html
+Gas Models,Sources,Pressure Source (G),Generate constant or time-varying pressure differential,https://www.mathworks.com/help/simscape/ref/pressuresource(g).html
+Gas Models,Utilities,Gas Properties (G),Global gas properties for attached circuit,https://www.mathworks.com/help/simscape/ref/gasproperties(g).html
+Moist Air Models,Elements,Absolute Reference (MA),(Not recommended) Reference point at zero absolute temperature and pressure,https://www.mathworks.com/help/simscape/ref/absolutereference(ma).html
+Moist Air Models,Elements,Cap (MA),Moist air port terminator with zero flow,https://www.mathworks.com/help/simscape/ref/cap(ma).html
+Moist Air Models,Elements,Constant Volume Chamber (MA),Chamber with fixed volume of moist air and variable number of ports,https://www.mathworks.com/help/simscape/ref/constantvolumechamber(ma).html
+Moist Air Models,Elements,Flow Resistance (MA),General resistance in a moist air branch,https://www.mathworks.com/help/simscape/ref/flowresistance(ma).html
+Moist Air Models,Elements,Infinite Flow Resistance (MA),Perfectly insulated break in moist air network,https://www.mathworks.com/help/simscape/ref/infiniteflowresistance(ma).html
+Moist Air Models,Elements,Local Restriction (MA),Restriction in flow area in moist air network,https://www.mathworks.com/help/simscape/ref/localrestriction(ma).html
+Moist Air Models,Elements,Moisture Separator (MA),Remove water vapor and water droplets from moist air flow (Since R2024b),https://www.mathworks.com/help/simscape/ref/moistureseparator(ma).html
+Moist Air Models,Elements,Pipe (MA),Rigid conduit for moist air flow,https://www.mathworks.com/help/simscape/ref/pipe(ma).html
+Moist Air Models,Elements,Reservoir (MA),"Boundary conditions for moist air network at constant pressure, temperature, moisture, and trace gas levels",https://www.mathworks.com/help/simscape/ref/reservoir(ma).html
+Moist Air Models,Elements,Rotational Mechanical Converter (MA),Interface between moist air and mechanical rotational networks,https://www.mathworks.com/help/simscape/ref/rotationalmechanicalconverter(ma).html
+Moist Air Models,Elements,Translational Mechanical Converter (MA),Interface between moist air and mechanical translational networks,https://www.mathworks.com/help/simscape/ref/translationalmechanicalconverter(ma).html
+Moist Air Models,Sensors,Flow Rate Sensor (MA),"Measure mass, energy, and volumetric flow rates in moist air networks (Since R2023a)",https://www.mathworks.com/help/simscape/ref/flowratesensor(ma).html
+Moist Air Models,Sensors,Measurement Selector (MA),"Measure pressure, temperature, humidity, and trace gas levels in moist air internal volumes",https://www.mathworks.com/help/simscape/ref/measurementselector(ma).html
+Moist Air Models,Sensors,Moisture & Trace Gas Sensor (MA),"Measure humidity, water droplets, and trace gas levels in moist air network",https://www.mathworks.com/help/simscape/ref/moisture&tracegassensor(ma).html
+Moist Air Models,Sensors,Pressure & Temperature Sensor (MA),Measure pressure and temperature in moist air networks,https://www.mathworks.com/help/simscape/ref/pressure&temperaturesensor(ma).html
+Moist Air Models,Sensors,Thermodynamic Properties Sensor (MA),"Measure specific enthalpy, density, specific heat at constant pressure, and specific entropy of air mixture",https://www.mathworks.com/help/simscape/ref/thermodynamicpropertiessensor(ma).html
+Moist Air Models,Sources,Flow Rate Source (MA),Generate constant or time-varying mass flow rate or volumetric flow rate in moist air network (Since R2023b),https://www.mathworks.com/help/simscape/ref/flowratesource(ma).html
+Moist Air Models,Sources,Pressure Source (MA),Generate constant or time-varying pressure differential,https://www.mathworks.com/help/simscape/ref/pressuresource(ma).html
+Moist Air Models,Moisture & Trace Gas Sources,Moisture Source (MA),Inject or extract moisture at a constant or time-varying rate,https://www.mathworks.com/help/simscape/ref/moisturesource(ma).html
+Moist Air Models,Moisture & Trace Gas Sources,Trace Gas Source (MA),Inject or extract trace gas at a constant or time-varying rate,https://www.mathworks.com/help/simscape/ref/tracegassource(ma).html
+Moist Air Models,Utilities,Moist Air Properties (MA),Global moist air properties for attached circuit,https://www.mathworks.com/help/simscape/ref/moistairproperties(ma).html
+Thermal Models,Thermal Elements,Conductive Heat Transfer,Heat transfer by conduction,https://www.mathworks.com/help/simscape/ref/conductiveheattransfer.html
+Thermal Models,Thermal Elements,Convective Heat Transfer,Heat transfer by convection,https://www.mathworks.com/help/simscape/ref/convectiveheattransfer.html
+Thermal Models,Thermal Elements,Infinite Thermal Resistance,Thermal element for setting initial temperature difference between two nodes,https://www.mathworks.com/help/simscape/ref/infinitethermalresistance.html
+Thermal Models,Thermal Elements,Perfect Insulator,Thermal element with perfect insulation and no thermal mass,https://www.mathworks.com/help/simscape/ref/perfectinsulator.html
+Thermal Models,Thermal Elements,Radiative Heat Transfer,Heat transfer by radiation,https://www.mathworks.com/help/simscape/ref/radiativeheattransfer.html
+Thermal Models,Thermal Elements,Thermal Mass,Mass in thermal systems,https://www.mathworks.com/help/simscape/ref/thermalmass.html
+Thermal Models,Thermal Elements,Thermal Reference,Reference connection for thermal ports,https://www.mathworks.com/help/simscape/ref/thermalreference.html
+Thermal Models,Thermal Elements,Thermal Resistance,Constant resistance in thermal systems,https://www.mathworks.com/help/simscape/ref/thermalresistance.html
+Thermal Models,Thermal Elements,Variable Thermal Resistance,Variable resistance in thermal systems,https://www.mathworks.com/help/simscape/ref/variablethermalresistance.html
+Thermal Models,Thermal Sensors,Heat Flow Rate Sensor,Ideal heat flow meter,https://www.mathworks.com/help/simscape/ref/heatflowratesensor.html
+Thermal Models,Thermal Sensors,Temperature Sensor,Ideal temperature sensor,https://www.mathworks.com/help/simscape/ref/temperaturesensor.html
+Thermal Models,Thermal Sources,Controlled Heat Flow Rate Source,"Variable source of thermal energy, characterized by heat flow",https://www.mathworks.com/help/simscape/ref/controlledheatflowratesource.html
+Thermal Models,Thermal Sources,Controlled Temperature Source,"Variable source of thermal energy, characterized by temperature",https://www.mathworks.com/help/simscape/ref/controlledtemperaturesource.html
+Thermal Models,Thermal Sources,Heat Flow Rate Source,"Constant source of thermal energy, characterized by heat flow",https://www.mathworks.com/help/simscape/ref/heatflowratesource.html
+Thermal Models,Thermal Sources,Temperature Source,"Constant source of thermal energy, characterized by temperature",https://www.mathworks.com/help/simscape/ref/temperaturesource.html
+Isothermal Liquid Models,Elements,Constant Volume Chamber (IL),Chamber with one port and fixed volume of isothermal liquid (Since R2020a),https://www.mathworks.com/help/simscape/ref/constantvolumechamber(il).html
+Isothermal Liquid Models,Elements,Flow Resistance (IL),General resistance in an isothermal liquid branch (Since R2020a),https://www.mathworks.com/help/simscape/ref/flowresistance(il).html
+Isothermal Liquid Models,Elements,Infinite Flow Resistance (IL),Isothermal liquid element for setting initial pressure difference between two nodes (Since R2020a),https://www.mathworks.com/help/simscape/ref/infiniteflowresistance(il).html
+Isothermal Liquid Models,Elements,Laminar Leakage (IL),Isothermal liquid element that models laminar leakage flow for various geometries (Since R2020a),https://www.mathworks.com/help/simscape/ref/laminarleakage(il).html
+Isothermal Liquid Models,Elements,Local Restriction (IL),Restriction in flow area in isothermal liquid network (Since R2020a),https://www.mathworks.com/help/simscape/ref/localrestriction(il).html
+Isothermal Liquid Models,Elements,Pipe (IL),Rigid conduit for fluid flow in isothermal liquid systems (Since R2020a),https://www.mathworks.com/help/simscape/ref/pipe(il).html
+Isothermal Liquid Models,Elements,Reservoir (IL),Isothermal liquid reservoir at constant or time-varying pressure (Since R2020a),https://www.mathworks.com/help/simscape/ref/reservoir(il).html
+Isothermal Liquid Models,Elements,Rotational Mechanical Converter (IL),Interface between isothermal liquid and mechanical rotational networks (Since R2020a),https://www.mathworks.com/help/simscape/ref/rotationalmechanicalconverter(il).html
+Isothermal Liquid Models,Elements,Translational Mechanical Converter (IL),Interface between isothermal liquid and mechanical translational networks (Since R2020a),https://www.mathworks.com/help/simscape/ref/translationalmechanicalconverter(il).html
+Isothermal Liquid Models,Sensors,Flow Rate Sensor (IL),Measure mass flow rate and volumetric flow rate (Since R2020a),https://www.mathworks.com/help/simscape/ref/flowratesensor(il).html
+Isothermal Liquid Models,Sensors,Liquid Properties Sensor (IL),"Measure density, bulk modulus, and fraction of entrained air in isothermal liquid network (Since R2020a)",https://www.mathworks.com/help/simscape/ref/liquidpropertiessensor(il).html
+Isothermal Liquid Models,Sensors,Pressure Sensor (IL),"Measure pressure differences, absolute pressure, or gauge pressure (Since R2020a)",https://www.mathworks.com/help/simscape/ref/pressuresensor(il).html
+Isothermal Liquid Models,Sources,Flow Rate Source (IL),Generate specified mass flow rate or volumetric flow rate (Since R2020a),https://www.mathworks.com/help/simscape/ref/flowratesource(il).html
+Isothermal Liquid Models,Sources,Pressure Source (IL),Generate specified pressure differential in isothermal liquid network (Since R2020a),https://www.mathworks.com/help/simscape/ref/pressuresource(il).html
+Isothermal Liquid Models,Utilities,Isothermal Liquid Properties (IL),Physical properties of isothermal liquid (Since R2020a),https://www.mathworks.com/help/simscape/ref/isothermalliquidproperties(il).html
+Isothermal Liquid Models,Utilities,Interface (H-IL),Flow connection between hydraulic and isothermal liquid networks (Since R2020a),https://www.mathworks.com/help/simscape/ref/interface(h-il).html
+Mechanical Models,Mechanical Sensors,Ideal Force Sensor,Force sensor in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/idealforcesensor.html
+Mechanical Models,Mechanical Sensors,Ideal Rotational Motion Sensor,Motion sensor in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/idealrotationalmotionsensor.html
+Mechanical Models,Mechanical Sensors,Ideal Torque Sensor,Torque sensor in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/idealtorquesensor.html
+Mechanical Models,Mechanical Sensors,Ideal Translational Motion Sensor,Motion sensor in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/idealtranslationalmotionsensor.html
+Mechanical Models,Mechanical Sources,Ideal Angular Velocity Source,Ideal angular velocity source in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/idealangularvelocitysource.html
+Mechanical Models,Mechanical Sources,Ideal Force Source,Ideal source of mechanical energy that generates force proportional to the input signal,https://www.mathworks.com/help/simscape/ref/idealforcesource.html
+Mechanical Models,Mechanical Sources,Ideal Torque Source,Ideal source of mechanical energy that generates torque proportional to the input signal,https://www.mathworks.com/help/simscape/ref/idealtorquesource.html
+Mechanical Models,Mechanical Sources,Ideal Translational Velocity Source,Ideal velocity source in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/idealtranslationalvelocitysource.html
+Mechanical Models,Mechanisms,Gear Box,Gear box in mechanical systems,https://www.mathworks.com/help/simscape/ref/gearbox.html
+Mechanical Models,Mechanisms,Lever,Generic mechanical lever,https://www.mathworks.com/help/simscape/ref/lever.html
+Mechanical Models,Mechanisms,Slider-Crank,Generic slider-crank mechanism,https://www.mathworks.com/help/simscape/ref/slider-crank.html
+Mechanical Models,Mechanisms,Wheel and Axle,Wheel and axle mechanism in mechanical systems,https://www.mathworks.com/help/simscape/ref/wheelandaxle.html
+Mechanical Models,Multibody Interfaces,Rotational Multibody Interface,Interface between mechanical rotational networks and Simscape Multibody joints (Since R2021a),https://www.mathworks.com/help/simscape/ref/rotationalmultibodyinterface.html
+Mechanical Models,Multibody Interfaces,Translational Multibody Interface,Interface between mechanical translational networks and Simscape Multibody joints (Since R2021a),https://www.mathworks.com/help/simscape/ref/translationalmultibodyinterface.html
+Mechanical Models,Rotational Elements,Inertia,Ideal mechanical rotational inertia,https://www.mathworks.com/help/simscape/ref/inertia.html
+Mechanical Models,Rotational Elements,Mechanical Rotational Reference,Reference connection for mechanical rotational ports,https://www.mathworks.com/help/simscape/ref/mechanicalrotationalreference.html
+Mechanical Models,Rotational Elements,Rotational Damper,Viscous damper in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/rotationaldamper.html
+Mechanical Models,Rotational Elements,Rotational Free End,Rotational port terminator with zero torque,https://www.mathworks.com/help/simscape/ref/rotationalfreeend.html
+Mechanical Models,Rotational Elements,Rotational Friction,Friction in contact between rotating bodies,https://www.mathworks.com/help/simscape/ref/rotationalfriction.html
+Mechanical Models,Rotational Elements,Rotational Hard Stop,Double-sided rotational hard stop,https://www.mathworks.com/help/simscape/ref/rotationalhardstop.html
+Mechanical Models,Rotational Elements,Rotational Inerter,Two-port inertia in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/rotationalinerter.html
+Mechanical Models,Rotational Elements,Rotational Spring,Ideal spring in mechanical rotational systems,https://www.mathworks.com/help/simscape/ref/rotationalspring.html
+Mechanical Models,Translational Elements,Mass,Ideal mechanical translational mass,https://www.mathworks.com/help/simscape/ref/mass.html
+Mechanical Models,Translational Elements,Mechanical Translational Reference,Reference connection for mechanical translational ports,https://www.mathworks.com/help/simscape/ref/mechanicaltranslationalreference.html
+Mechanical Models,Translational Elements,Translational Damper,Viscous damper in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/translationaldamper.html
+Mechanical Models,Translational Elements,Translational Free End,Translational port terminator with zero force,https://www.mathworks.com/help/simscape/ref/translationalfreeend.html
+Mechanical Models,Translational Elements,Translational Friction,Friction in contact between moving bodies,https://www.mathworks.com/help/simscape/ref/translationalfriction.html
+Mechanical Models,Translational Elements,Translational Hard Stop,Double-sided translational hard stop,https://www.mathworks.com/help/simscape/ref/translationalhardstop.html
+Mechanical Models,Translational Elements,Translational Inerter,Two-port inertia in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/translationalinerter.html
+Mechanical Models,Translational Elements,Translational Spring,Ideal spring in mechanical translational systems,https://www.mathworks.com/help/simscape/ref/translationalspring.html
+Physical Signal Manipulation,Delays,PS Constant Delay,Delay input physical signal by specified time,https://www.mathworks.com/help/simscape/ref/psconstantdelay.html
+Physical Signal Manipulation,Delays,PS Variable Delay,Delay input physical signal by variable time,https://www.mathworks.com/help/simscape/ref/psvariabledelay.html
+Physical Signal Manipulation,Discrete,PS Asynchronous Sample & Hold,Output sample-and-hold signal with external trigger,https://www.mathworks.com/help/simscape/ref/psasynchronoussample&hold.html
+Physical Signal Manipulation,Functions,PS Add,Add two physical signal inputs,https://www.mathworks.com/help/simscape/ref/psadd.html
+Physical Signal Manipulation,Functions,PS Bias,Add constant bias to input physical signal (Since R2023b),https://www.mathworks.com/help/simscape/ref/psbias.html
+Physical Signal Manipulation,Functions,PS Concatenate,Concatenate two vector or matrix physical signals (Since R2023b),https://www.mathworks.com/help/simscape/ref/psconcatenate.html
+Physical Signal Manipulation,Functions,PS Divide,Compute element-wise division of two input physical signals,https://www.mathworks.com/help/simscape/ref/psdivide.html
+Physical Signal Manipulation,Functions,PS Dot Product,Calculate scalar dot product of two vector or matrix physical signals (Since R2023b),https://www.mathworks.com/help/simscape/ref/psdotproduct.html
+Physical Signal Manipulation,Functions,PS Gain,Multiply input physical signal by constant,https://www.mathworks.com/help/simscape/ref/psgain.html
+Physical Signal Manipulation,Functions,PS Math Function,Apply mathematical function to input physical signal,https://www.mathworks.com/help/simscape/ref/psmathfunction.html
+Physical Signal Manipulation,Functions,PS Product,Multiply two physical signal inputs,https://www.mathworks.com/help/simscape/ref/psproduct.html
+Physical Signal Manipulation,Functions,PS Subtract,Compute simple subtraction of two input physical signals,https://www.mathworks.com/help/simscape/ref/pssubtract.html
+Physical Signal Manipulation,Functions,PS Sum of Elements,Calculate sum of elements of vector or matrix input physical signal (Since R2023b),https://www.mathworks.com/help/simscape/ref/pssumofelements.html
+Physical Signal Manipulation,Linear Operators,PS Integrator,Integrate physical signal,https://www.mathworks.com/help/simscape/ref/psintegrator.html
+Physical Signal Manipulation,Linear Operators,PS Transfer Function,Model low-pass and lead-lag filters (Since R2020a),https://www.mathworks.com/help/simscape/ref/pstransferfunction.html
+Physical Signal Manipulation,Lookup Tables,PS Lookup Table (1D),Approximate one-dimensional function using specified lookup method,https://www.mathworks.com/help/simscape/ref/pslookuptable(1d).html
+Physical Signal Manipulation,Lookup Tables,PS Lookup Table (2D),Approximate two-dimensional function using specified lookup method,https://www.mathworks.com/help/simscape/ref/pslookuptable(2d).html
+Physical Signal Manipulation,Lookup Tables,PS Lookup Table (3D),Approximate three-dimensional function using specified lookup method,https://www.mathworks.com/help/simscape/ref/pslookuptable(3d).html
+Physical Signal Manipulation,Lookup Tables,PS Lookup Table (4D),Approximate four-dimensional function using specified lookup method,https://www.mathworks.com/help/simscape/ref/pslookuptable(4d).html
+Physical Signal Manipulation,Lookup Tables,PS Scattered Lookup Table (2D),Approximate two-dimensional function using scattered data lookup (Since R2023a),https://www.mathworks.com/help/simscape/ref/psscatteredlookuptable(2d).html
+Physical Signal Manipulation,Lookup Tables,PS Scattered Lookup Table (3D),Approximate three-dimensional function using scattered data lookup (Since R2023a),https://www.mathworks.com/help/simscape/ref/psscatteredlookuptable(3d).html
+Physical Signal Manipulation,Nonlinear Operators,PS Abs,Output absolute value of input physical signal,https://www.mathworks.com/help/simscape/ref/psabs.html
+Physical Signal Manipulation,Nonlinear Operators,PS Ceil,Output the smallest integer larger than or equal to input physical signal,https://www.mathworks.com/help/simscape/ref/psceil.html
+Physical Signal Manipulation,Nonlinear Operators,PS Dead Zone,Provide region of zero output for physical signals,https://www.mathworks.com/help/simscape/ref/psdeadzone.html
+Physical Signal Manipulation,Nonlinear Operators,PS Fix,Round input physical signal toward zero,https://www.mathworks.com/help/simscape/ref/psfix.html
+Physical Signal Manipulation,Nonlinear Operators,PS Floor,Output the largest integer smaller than or equal to input physical signal,https://www.mathworks.com/help/simscape/ref/psfloor.html
+Physical Signal Manipulation,Nonlinear Operators,PS Max,Output maximum of two input physical signals,https://www.mathworks.com/help/simscape/ref/psmax.html
+Physical Signal Manipulation,Nonlinear Operators,PS Min,Output minimum of two input physical signals,https://www.mathworks.com/help/simscape/ref/psmin.html
+Physical Signal Manipulation,Nonlinear Operators,PS Round,Round input physical signal toward nearest integer,https://www.mathworks.com/help/simscape/ref/psround.html
+Physical Signal Manipulation,Nonlinear Operators,PS Saturation,Limit range of physical signal,https://www.mathworks.com/help/simscape/ref/pssaturation.html
+Physical Signal Manipulation,Nonlinear Operators,PS Selector,Select elements from vector or matrix input physical signal (Since R2023b),https://www.mathworks.com/help/simscape/ref/psselector.html
+Physical Signal Manipulation,Nonlinear Operators,PS Sign,Output sign of input physical signal,https://www.mathworks.com/help/simscape/ref/pssign.html
+Physical Signal Manipulation,Nonlinear Operators,PS Switch,Single-pole double-throw switch controlled by external physical signal,https://www.mathworks.com/help/simscape/ref/psswitch.html
+Physical Signal Manipulation,Nonlinear Operators,PS Three-Element Demux,Convert three-element physical signal vector into scalar physical signals,https://www.mathworks.com/help/simscape/ref/psthree-elementdemux.html
+Physical Signal Manipulation,Nonlinear Operators,PS Vector Norm,Compute Euclidean norm of vector or matrix physical signal (Since R2023b),https://www.mathworks.com/help/simscape/ref/psvectornorm.html
+Physical Signal Manipulation,Periodic Operators,PS Constant Offset Estimator,Measure constant offset value of periodic signal,https://www.mathworks.com/help/simscape/ref/psconstantoffsetestimator.html
+Physical Signal Manipulation,Periodic Operators,"PS Harmonic Estimator (Amplitude, Phase)",Measure harmonic amplitude and phase of periodic signal,"https://www.mathworks.com/help/simscape/ref/psharmonicestimator(amplitude,phase).html"
+Physical Signal Manipulation,Periodic Operators,"PS Harmonic Estimator (Real, Imaginary)",Measure real and imaginary parts of periodic signal harmonic,"https://www.mathworks.com/help/simscape/ref/psharmonicestimator(real,imaginary).html"
+Physical Signal Manipulation,Periodic Operators,PS RMS Estimator,Measure RMS value of periodic signal,https://www.mathworks.com/help/simscape/ref/psrmsestimator.html
+Physical Signal Manipulation,Sinks,PS Terminator,Terminator for unconnected physical signal outputs,https://www.mathworks.com/help/simscape/ref/psterminator.html
+Physical Signal Manipulation,Sources,PS Constant,Generate constant physical signal,https://www.mathworks.com/help/simscape/ref/psconstant.html
+Physical Signal Manipulation,Sources,PS Counter,Increment output signal by 1 with every time step,https://www.mathworks.com/help/simscape/ref/pscounter.html
+Physical Signal Manipulation,Sources,PS Ramp,Generate constantly increasing or decreasing physical signal (Since R2021a),https://www.mathworks.com/help/simscape/ref/psramp.html
+Physical Signal Manipulation,Sources,PS Random Number,Generate normally distributed random numbers for physical modeling,https://www.mathworks.com/help/simscape/ref/psrandomnumber.html
+Physical Signal Manipulation,Sources,PS Repeating Sequence,Output periodic piecewise linear signal,https://www.mathworks.com/help/simscape/ref/psrepeatingsequence.html
+Physical Signal Manipulation,Sources,PS Sine Wave,"Generate sine wave physical signal, using simulation time as time source (Since R2021a)",https://www.mathworks.com/help/simscape/ref/pssinewave.html
+Physical Signal Manipulation,Sources,PS Step,Generate physical signal shaped as step function (Since R2021a),https://www.mathworks.com/help/simscape/ref/psstep.html
+Physical Signal Manipulation,Sources,PS Uniform Random Number,Generate uniformly distributed random numbers for physical modeling,https://www.mathworks.com/help/simscape/ref/psuniformrandomnumber.html
+Physical Signal Manipulation,Utilities,PS Signal Specification,Specify size and unit of physical signal,https://www.mathworks.com/help/simscape/ref/pssignalspecification.html
+Position-Based Mechanical Translational Models,Elements,Mass (PB),Point mass with gravitational effects (Since R2024b),https://www.mathworks.com/help/simscape/ref/mass(pb).html
+Position-Based Mechanical Translational Models,Elements,Mass With Friction (PB),Point mass with friction and gravitational effects (Since R2024b),https://www.mathworks.com/help/simscape/ref/masswithfriction(pb).html
+Position-Based Mechanical Translational Models,Elements,Mass With Length & Friction (PB),"Mass with length, friction, and gravitational effects (Since R2024b)",https://www.mathworks.com/help/simscape/ref/masswithlength&friction(pb).html
+Position-Based Mechanical Translational Models,Elements,Mass With Length (PB),Mass with length and gravitational effects (Since R2024b),https://www.mathworks.com/help/simscape/ref/masswithlength(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Damper (PB),Viscous damper in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationaldamper(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Friction (PB),Resistive frictional contact between surfaces in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalfriction(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Hard Stop (PB),Hard stop in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalhardstop(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Initial Spacer (PB),Initial distance between blocks (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalinitialspacer(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Spacer (PB),Fixed length between blocks during simulation (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalspacer(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational Spring (PB),Ideal spring in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalspring(pb).html
+Position-Based Mechanical Translational Models,Elements,Translational World (PB),Global reference frame for position-based translational network (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalworld(pb).html
+Position-Based Mechanical Translational Models,Sensors,Force Sensor (PB),Force sensor in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/forcesensor(pb).html
+Position-Based Mechanical Translational Models,Sensors,Translational Motion Sensor (PB),Motion sensor in position-based mechanical translational systems (Since R2024b),https://www.mathworks.com/help/simscape/ref/translationalmotionsensor(pb).html
+Position-Based Mechanical Translational Models,Sources,External Force Source (PB),Ideal source of mechanical energy that generates force proportional to the input signal (Since R2024b),https://www.mathworks.com/help/simscape/ref/externalforcesource(pb).html
+Position-Based Mechanical Translational Models,Sources,External Translational Velocity Source (PB),Ideal source of mechanical energy that generates velocity proportional to the input signal (Since R2024b),https://www.mathworks.com/help/simscape/ref/externaltranslationalvelocitysource(pb).html
+Position-Based Mechanical Translational Models,Sources,Force Actuator (PB),"Ideal force actuator, with length, that generates force proportional to the input signal (Since R2024b)",https://www.mathworks.com/help/simscape/ref/forceactuator(pb).html
+Position-Based Mechanical Translational Models,Sources,Length Actuator (PB),Ideal actuator that maintains length proportional to the input signal (Since R2024b),https://www.mathworks.com/help/simscape/ref/lengthactuator(pb).html
+Position-Based Mechanical Translational Models,Sources,Translational Velocity Actuator (PB),"Ideal velocity actuator, with length, that maintains velocity proportional to the input signal (Since R2024b)",https://www.mathworks.com/help/simscape/ref/translationalvelocityactuator(pb).html
+Position-Based Mechanical Translational Models,Utilities,Interface (PB-Translational),Connect position-based and non-position-based mechanical translational ports (Since R2024b),https://www.mathworks.com/help/simscape/ref/interface(pb-translational).html
+Position-Based Mechanical Translational Models,Utilities,Mechanical Translational Properties (PB),Specify gravitational acceleration and rail incline angle for circuit (Since R2024b),https://www.mathworks.com/help/simscape/ref/mechanicaltranslationalproperties(pb).html
+Thermal Liquid Models,Elements,Absolute Reference (TL),(Not recommended) Reference point at zero absolute temperature and pressure,https://www.mathworks.com/help/simscape/ref/absolutereference(tl).html
+Thermal Liquid Models,Elements,Cap (TL),Perfectly insulated stop to fluid flow,https://www.mathworks.com/help/simscape/ref/cap(tl).html
+Thermal Liquid Models,Elements,Constant Volume Chamber (TL),Chamber with fixed volume of thermal liquid and variable number of ports,https://www.mathworks.com/help/simscape/ref/constantvolumechamber(tl).html
+Thermal Liquid Models,Elements,Controlled Reservoir (TL),Thermal liquid reservoir at time-varying temperature,https://www.mathworks.com/help/simscape/ref/controlledreservoir(tl).html
+Thermal Liquid Models,Elements,Flow Resistance (TL),General resistance in a thermal liquid branch,https://www.mathworks.com/help/simscape/ref/flowresistance(tl).html
+Thermal Liquid Models,Elements,Infinite Flow Resistance (TL),Perfectly insulated break in thermal liquid network,https://www.mathworks.com/help/simscape/ref/infiniteflowresistance(tl).html
+Thermal Liquid Models,Elements,Local Restriction (TL),Restriction in flow area in thermal liquid network,https://www.mathworks.com/help/simscape/ref/localrestriction(tl).html
+Thermal Liquid Models,Elements,Pipe (TL),Rigid conduit for fluid flow in thermal liquid systems,https://www.mathworks.com/help/simscape/ref/pipe(tl).html
+Thermal Liquid Models,Elements,Reservoir (TL),Thermal liquid reservoir at constant temperature and pressure,https://www.mathworks.com/help/simscape/ref/reservoir(tl).html
+Thermal Liquid Models,Elements,Rotational Mechanical Converter (TL),Interface between thermal liquid and mechanical rotational networks,https://www.mathworks.com/help/simscape/ref/rotationalmechanicalconverter(tl).html
+Thermal Liquid Models,Elements,Translational Mechanical Converter (TL),Interface between thermal liquid and mechanical translational networks,https://www.mathworks.com/help/simscape/ref/translationalmechanicalconverter(tl).html
+Thermal Liquid Models,Sensors,Flow Rate Sensor (TL),"Measure mass, energy, and volumetric flow rates in thermal liquid networks (Since R2023a)",https://www.mathworks.com/help/simscape/ref/flowratesensor(tl).html
+Thermal Liquid Models,Sensors,Pressure & Temperature Sensor (TL),Measure pressure and temperature in thermal liquid networks,https://www.mathworks.com/help/simscape/ref/pressure&temperaturesensor(tl).html
+Thermal Liquid Models,Sensors,Thermodynamic Properties Sensor (TL),"Measure specific internal energy, density, and specific heat at constant pressure in thermal liquid networks",https://www.mathworks.com/help/simscape/ref/thermodynamicpropertiessensor(tl).html
+Thermal Liquid Models,Sources,Flow Rate Source (TL),Generate constant or time-varying mass flow rate or volumetric flow rate in thermal liquid network (Since R2023b),https://www.mathworks.com/help/simscape/ref/flowratesource(tl).html
+Thermal Liquid Models,Sources,Pressure Source (TL),Generate constant or time-varying pressure differential,https://www.mathworks.com/help/simscape/ref/pressuresource(tl).html
+Thermal Liquid Models,Utilities,Thermal Liquid Settings (TL),Physical properties of a thermal liquid,https://www.mathworks.com/help/simscape/ref/thermalliquidsettings(tl).html
+Two-Phase Fluid Models,Elements,Absolute Reference (2P),(Not recommended) Reference point at zero absolute pressure and specific internal energy,https://www.mathworks.com/help/simscape/ref/absolutereference(2p).html
+Two-Phase Fluid Models,Elements,Cap (2P),Perfectly insulated stop to fluid flow,https://www.mathworks.com/help/simscape/ref/cap(2p).html
+Two-Phase Fluid Models,Elements,Constant Volume Chamber (2P),Chamber with fixed volume of two-phase fluid and variable number of ports,https://www.mathworks.com/help/simscape/ref/constantvolumechamber(2p).html
+Two-Phase Fluid Models,Elements,Controlled Reservoir (2P),Two-phase fluid reservoir at variable pressure and temperature,https://www.mathworks.com/help/simscape/ref/controlledreservoir(2p).html
+Two-Phase Fluid Models,Elements,Flow Resistance (2P),General resistance in a two-phase fluid branch,https://www.mathworks.com/help/simscape/ref/flowresistance(2p).html
+Two-Phase Fluid Models,Elements,Infinite Flow Resistance (2P),Perfectly insulated break in two-phase fluid network,https://www.mathworks.com/help/simscape/ref/infiniteflowresistance(2p).html
+Two-Phase Fluid Models,Elements,Local Restriction (2P),Restriction in flow area in two-phase fluid network,https://www.mathworks.com/help/simscape/ref/localrestriction(2p).html
+Two-Phase Fluid Models,Elements,Pipe (2P),Rigid conduit for fluid flow in two-phase fluid systems,https://www.mathworks.com/help/simscape/ref/pipe(2p).html
+Two-Phase Fluid Models,Elements,Reservoir (2P),Two-phase fluid reservoir at constant temperature and pressure,https://www.mathworks.com/help/simscape/ref/reservoir(2p).html
+Two-Phase Fluid Models,Elements,Rotational Mechanical Converter (2P),Interface between two-phase fluid and mechanical rotational networks,https://www.mathworks.com/help/simscape/ref/rotationalmechanicalconverter(2p).html
+Two-Phase Fluid Models,Elements,Translational Mechanical Converter (2P),Interface between two-phase fluid and mechanical translational networks,https://www.mathworks.com/help/simscape/ref/translationalmechanicalconverter(2p).html
+Two-Phase Fluid Models,Sensors,Flow Rate Sensor (2P),"Measure mass, energy, and volumetric flow rates in two-phase fluid networks (Since R2023a)",https://www.mathworks.com/help/simscape/ref/flowratesensor(2p).html
+Two-Phase Fluid Models,Sensors,"Pressure, Temperature & Internal Energy Sensor (2P)","Measure pressure, temperature, and specific internal energy in two-phase fluid networks","https://www.mathworks.com/help/simscape/ref/pressure,temperature&internalenergysensor(2p).html"
+Two-Phase Fluid Models,Sensors,Saturation Properties Sensor (2P),Measure liquid and vapor saturation properties in two-phase fluids (Since R2021a),https://www.mathworks.com/help/simscape/ref/saturationpropertiessensor(2p).html
+Two-Phase Fluid Models,Sensors,Thermodynamic Properties Sensor (2P),"Measure temperature, density, specific enthalpy, specific entropy, and specific volume in two-phase fluid networks",https://www.mathworks.com/help/simscape/ref/thermodynamicpropertiessensor(2p).html
+Two-Phase Fluid Models,Sensors,Vapor Quality Sensor (2P),Measure vapor fraction in two-phase fluids,https://www.mathworks.com/help/simscape/ref/vaporqualitysensor(2p).html
+Two-Phase Fluid Models,Sources,Flow Rate Source (2P),Generate constant or time-varying mass flow rate or volumetric flow rate in two-phase fluid network (Since R2023b),https://www.mathworks.com/help/simscape/ref/flowratesource(2p).html
+Two-Phase Fluid Models,Sources,Pressure Source (2P),Generate constant or time-varying pressure differential,https://www.mathworks.com/help/simscape/ref/pressuresource(2p).html
+Two-Phase Fluid Models,Utilities,Two-Phase Fluid Properties (2P),Fluid properties for two-phase fluid network,https://www.mathworks.com/help/simscape/ref/two-phasefluidproperties(2p).html
+Utilities,Utility Blocks,Connection Label,Virtual connection between conserving ports,https://www.mathworks.com/help/simscape/ref/connectionlabel.html
+Utilities,Utility Blocks,Connection Port,Physical Modeling connector port for subsystem,https://www.mathworks.com/help/simscape/ref/connectionport.html
+Utilities,Utility Blocks,Probe,Output block variables as signals during simulation (Since R2020a),https://www.mathworks.com/help/simscape/ref/probe.html
+Utilities,Utility Blocks,PS-Simulink Converter,Convert physical signal into Simulink output signal,https://www.mathworks.com/help/simscape/ref/ps-simulinkconverter.html
+Utilities,Utility Blocks,Simscape Bus,Bus for conserving connection lines,https://www.mathworks.com/help/simscape/ref/simscapebus.html
+Utilities,Utility Blocks,Simscape Component,Deploy Simscape language component as custom block in model diagram,https://www.mathworks.com/help/simscape/ref/simscapecomponent.html
+Utilities,Utility Blocks,Simulink-PS Converter,Convert Simulink input signal into physical signal,https://www.mathworks.com/help/simscape/ref/simulink-psconverter.html
+Utilities,Utility Blocks,Solver Configuration,Physical network environment and solver configuration,https://www.mathworks.com/help/simscape/ref/solverconfiguration.html
+Utilities,Utility Blocks,Variant Connector,Remove or disconnect physical components from network (Since R2020b),https://www.mathworks.com/help/simscape/ref/variantconnector.html
+Utilities,Network Couplers,Network Coupler (Capacitor),Split network at an electrical connection by replacing a capacitor (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(capacitor).html
+Utilities,Network Couplers,Network Coupler (Compressible Link),Split network at a mechanical translational connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(compressiblelink).html
+Utilities,Network Couplers,Network Coupler (Constant Volume Chamber (IL)),Split network at an isothermal liquid connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(constantvolumechamber(il)).html
+Utilities,Network Couplers,Network Coupler (Constant Volume Chamber (TL)),Split network at a thermal liquid connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(constantvolumechamber(tl)).html
+Utilities,Network Couplers,Network Coupler (Current-Voltage),Split network at an electrical connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(current-voltage).html
+Utilities,Network Couplers,Network Coupler (Flexible Shaft),Split network at a mechanical rotational connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(flexibleshaft).html
+Utilities,Network Couplers,Network Coupler (Inductor),Split network at an electrical connection by replacing an inductor (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(inductor).html
+Utilities,Network Couplers,Network Coupler (Thermal Mass),Split network at a thermal connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(thermalmass).html
+Utilities,Network Couplers,Network Coupler (Voltage-Current),Split network at an electrical connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(voltage-current).html
+Utilities,Network Couplers,Network Coupler (Voltage-Voltage),Split network at an electrical connection (Since R2022a),https://www.mathworks.com/help/simscape/ref/networkcoupler(voltage-voltage).html
+Utilities,Other,Spectrum Analyzer,Display frequency spectrum,https://www.mathworks.com/help/simscape/ref/spectrumanalyzer.html
